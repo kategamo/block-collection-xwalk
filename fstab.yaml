@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p158914-e1694631.adobeaemcloud.com/bin/franklin.delivery/kategamo/aem-block-collection-xwalk/main"
+    url: "https://author-p158914-e1694631.adobeaemcloud.com/bin/franklin.delivery/kategamo/block-collection-xwalk/main"
     type: "markup"
     suffix: ".html"
